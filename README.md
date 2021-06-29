@@ -1,12 +1,6 @@
 # Sudoku
  
- > Authors: Nuha Rahman, Hannah Cierlak, Vishal Menon
- > 
- > Nuha Rahman: https://github.com/nuharahman9
- > 
- > Hannah Cierlak: https://github.com/shrimpnoodles
- > 
- > Vishal Menon: https://github.com/vmeno0020
+ > Authors: Vishal Menon, Nuha Rahman, Hannah Cierlak
 
 ## Project Description:
  > **Why is it important or interesting to you?**
